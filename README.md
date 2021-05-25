@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Bem vindo ao meu perfil. 💜
 
-Me indentifico na internet como 76/Daddy ...:
+Me indentifico na internet como 76/Daddy.
 
  - 😄 Sou programador, veja minha barra ali em baixo.
  - 📊 Não sou de postar muito progresso.
