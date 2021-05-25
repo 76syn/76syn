@@ -1,4 +1,4 @@
-### 💛 Olá, bem vindo ao meu perfil 💜�
+### 💛 Olá, bem vindo ao meu perfil 💜
 
 # ✨ Aqui vai algo sobre mim.
 
@@ -13,4 +13,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
