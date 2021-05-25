@@ -1,9 +1,9 @@
-### Hi there 👋
+### 💛 Olá, bem vindo ao meu perfil 💜�
 
-<!--
-**76syn/76syn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ Aqui vai algo sobre mim.
 
-Here are some ideas to get you started:
+[![Discord Badge] (https://th.bing.com/th/id/OIP.leOc-S-mO4rJb2S4ZU9eqwHaHa?pid=ImgDet&rs=1)](https://discord.gg/bdf)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
