@@ -26,5 +26,4 @@ Me indentifico na internet como 76/Daddy ...:
  - 📊 Não sou de postar muito progresso.
  - 📚 Estou estudando novas linguagens.
 
-
 [![Discord Badge](https://cdn.discordapp.com/emojis/832109019694497792.png?v=1)](https://discord.gg/bdf)
