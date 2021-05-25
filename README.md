@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Oi, sou o 76 😍
 
-[![Discord Badge](https://th.bing.com/th/id/OIP.leOc-S-mO4rJb2S4ZU9eqwHaHa?pid=ImgDet&rs=1)](https://discord.gg/bdf)
+[![Discord Badge](https://cdn.discordapp.com/emojis/832109019694497792.png?v=1)](https://discord.gg/bdf)
 
 ### Bem vindo ao meu perfil. 💜
 
