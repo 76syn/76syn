@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # Oi, sou o 76 😍
 
@@ -28,7 +28,7 @@ Me indentifico na internet como 76/Daddy.
  - 😄 Sou programador, veja minha barra ali em baixo.
  - 📊 Não sou de postar muito progresso.
  - 📚 Estou estudando novas linguagens.
-
+-->
 <h1 align="center">💜 Olá meu nome é Daddy 💜</h1>
 
 <p align="center">
@@ -45,9 +45,4 @@ Me indentifico na internet como 76/Daddy.
  - 😄 Meu nome é Daddy.
  - 💙 Tenho 15 anos.
  - 😎 Programo a pouco tempo.
-##  ⭐ Monitoramente da Github:
-![languages] ![profile]
-
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=76synthub&theme=transparent
-[profile]: https://github-readme-stats.vercel.app/api?username=76synthub&show_icons=true&theme=transparent
-
+##  ⭐ Isso é tudo.
