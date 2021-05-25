@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 # Oi, sou o 76 😍
 
-[![Discord Badge](https://cdn.discordapp.com/emojis/832109019694497792.png?v=1)](https://discord.gg/bdf)
-
 ### Bem vindo ao meu perfil. 💜
 
 Me indentifico na internet como 76/Daddy ...:
@@ -27,3 +25,6 @@ Me indentifico na internet como 76/Daddy ...:
  - 😄 Sou programador, veja minha barra ali em baixo.
  - 📊 Não sou de postar muito progresso.
  - 📚 Estou estudando novas linguagens.
+
+
+[![Discord Badge](https://cdn.discordapp.com/emojis/832109019694497792.png?v=1)](https://discord.gg/bdf)
